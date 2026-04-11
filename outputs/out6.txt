@@ -1,0 +1,168 @@
+zkusil jsem uplne to same na 15 epochach misto 10, a je zajimave, ze nyni mi to po 15 epochach dalo stejny vysledek, jako predtim po 10 epochach
+
+Epoch 1/15
+----------
+train
+  Loss: 5.0860
+  Accuracy: 0.0223
+  Acc-Top5: 0.0898
+val
+  Loss: 4.6631
+  Accuracy: 0.0369
+  Acc-Top5: 0.1569
+
+Epoch 2/15
+----------
+train
+  Loss: 4.3286
+  Accuracy: 0.0648
+  Acc-Top5: 0.2262
+val
+  Loss: 3.8131
+  Accuracy: 0.1115
+  Acc-Top5: 0.3507
+
+Epoch 3/15
+----------
+train
+  Loss: 3.7681
+  Accuracy: 0.1338
+  Acc-Top5: 0.3742
+val
+  Loss: 3.5653
+  Accuracy: 0.1747
+  Acc-Top5: 0.4606
+
+Epoch 4/15
+----------
+train
+  Loss: 3.3423
+  Accuracy: 0.1998
+  Acc-Top5: 0.4875
+val
+  Loss: 2.7153
+  Accuracy: 0.3028
+  Acc-Top5: 0.6332
+
+Epoch 5/15
+----------
+train
+  Loss: 3.0102
+  Accuracy: 0.2580
+  Acc-Top5: 0.5694
+val
+  Loss: 2.3042
+  Accuracy: 0.3825
+  Acc-Top5: 0.7218
+
+Epoch 6/15
+----------
+train
+  Loss: 2.3857
+  Accuracy: 0.4076
+  Acc-Top5: 0.7006
+val
+  Loss: 1.7098
+  Accuracy: 0.5377
+  Acc-Top5: 0.8308
+
+Epoch 7/15
+----------
+train
+  Loss: 2.2021
+  Accuracy: 0.4544
+  Acc-Top5: 0.7417
+val
+  Loss: 1.6125
+  Accuracy: 0.5645
+  Acc-Top5: 0.8435
+
+Epoch 8/15
+----------
+train
+  Loss: 2.1054
+  Accuracy: 0.4718
+  Acc-Top5: 0.7512
+val
+  Loss: 1.5598
+  Accuracy: 0.5785
+  Acc-Top5: 0.8524
+
+Epoch 9/15
+----------
+train
+  Loss: 2.0218
+  Accuracy: 0.4927
+  Acc-Top5: 0.7690
+val
+  Loss: 1.4861
+  Accuracy: 0.6022
+  Acc-Top5: 0.8639
+
+Epoch 10/15
+----------
+train
+  Loss: 1.9544
+  Accuracy: 0.5119
+  Acc-Top5: 0.7784
+val
+  Loss: 1.4270
+  Accuracy: 0.6128
+  Acc-Top5: 0.8736
+
+Epoch 11/15
+----------
+train
+  Loss: 1.8651
+  Accuracy: 0.5391
+  Acc-Top5: 0.7918
+val
+  Loss: 1.3946
+  Accuracy: 0.6255
+  Acc-Top5: 0.8791
+
+Epoch 12/15
+----------
+train
+  Loss: 1.8717
+  Accuracy: 0.5311
+  Acc-Top5: 0.7931
+val
+  Loss: 1.3885
+  Accuracy: 0.6260
+  Acc-Top5: 0.8770
+
+Epoch 13/15
+----------
+train
+  Loss: 1.8171
+  Accuracy: 0.5444
+  Acc-Top5: 0.8019
+val
+  Loss: 1.3925
+  Accuracy: 0.6272
+  Acc-Top5: 0.8762
+
+Epoch 14/15
+----------
+train
+  Loss: 1.8271
+  Accuracy: 0.5455
+  Acc-Top5: 0.7978
+val
+  Loss: 1.3745
+  Accuracy: 0.6319
+  Acc-Top5: 0.8791
+
+Epoch 15/15
+----------
+train
+  Loss: 1.7994
+  Accuracy: 0.5526
+  Acc-Top5: 0.8036
+val
+  Loss: 1.3715
+  Accuracy: 0.6315
+  Acc-Top5: 0.8842
+
+Training finished in 19m 28s

@@ -1,0 +1,91 @@
+Epoch 1/10
+----------
+train
+  Loss: 3.7594
+  Accuracy: 0.1571
+  Acc-Top5: 0.4104
+val
+  Loss: 3.4563
+  Accuracy: 0.1925
+  Acc-Top5: 0.4936
+
+Epoch 2/10
+----------
+train
+  Loss: 2.1325
+  Accuracy: 0.4217
+  Acc-Top5: 0.7663
+val
+  Loss: 2.2273
+  Accuracy: 0.4245
+  Acc-Top5: 0.7472
+
+Epoch 3/10
+----------
+train
+  Loss: 1.4041
+  Accuracy: 0.6018
+  Acc-Top5: 0.8891
+val
+  Loss: 2.0489
+  Accuracy: 0.4559
+  Acc-Top5: 0.7816
+
+Epoch 4/10
+----------
+train
+  Loss: 0.9329
+  Accuracy: 0.7223
+  Acc-Top5: 0.9488
+val
+  Loss: 2.0281
+  Accuracy: 0.5161
+  Acc-Top5: 0.8003
+
+Epoch 5/10
+----------
+train
+  Loss: 0.6258
+  Accuracy: 0.8111
+  Acc-Top5: 0.9764
+val
+  Loss: 1.7021
+  Accuracy: 0.5696
+  Acc-Top5: 0.8545
+
+Epoch 6/10
+----------
+train
+  Loss: 0.4082
+  Accuracy: 0.8805
+  Acc-Top5: 0.9909
+val
+  Loss: 2.0638
+  Accuracy: 0.5153
+  Acc-Top5: 0.8227
+
+Epoch 7/10
+----------
+train
+  Loss: 0.3047
+  Accuracy: 0.9091
+  Acc-Top5: 0.9959
+val
+  Loss: 2.2045
+  Accuracy: 0.5008
+  Acc-Top5: 0.7969
+
+Epoch 8/10
+----------
+train
+  Loss: 0.2254
+  Accuracy: 0.9337
+  Acc-Top5: 0.9978
+val
+  Loss: 1.9834
+  Accuracy: 0.5513
+  Acc-Top5: 0.8439
+
+Epoch 9/10 
+
+pak jsem to ukoncil

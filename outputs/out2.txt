@@ -1,0 +1,48 @@
+Epoch 1/10
+----------
+train
+  Loss: 3.8167
+  Accuracy: 0.1497
+val
+  Loss: 3.0618
+  Accuracy: 0.2299
+
+Epoch 2/10
+----------
+train
+  Loss: 2.1562
+  Accuracy: 0.4203
+val
+  Loss: 2.1705
+  Accuracy: 0.4156
+
+Epoch 3/10
+----------
+train
+  Loss: 1.4207
+  Accuracy: 0.5933
+val
+  Loss: 1.9483
+  Accuracy: 0.4932
+
+Epoch 4/10
+----------
+train
+  Loss: 0.9381
+  Accuracy: 0.7220
+val
+  Loss: 1.9402
+  Accuracy: 0.4779
+
+Epoch 5/10
+----------
+train
+  Loss: 0.6311
+  Accuracy: 0.8069
+val
+  Loss: 2.0039
+  Accuracy: 0.5208
+
+Epoch 6/10 
+
+pak jsem to ukoncil

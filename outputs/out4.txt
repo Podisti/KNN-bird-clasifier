@@ -1,0 +1,111 @@
+Epoch 1/10
+----------
+train
+  Loss: 3.8482
+  Accuracy: 0.1460
+  Acc-Top5: 0.3820
+val
+  Loss: 3.2842
+  Accuracy: 0.2065
+  Acc-Top5: 0.5271
+
+Epoch 2/10
+----------
+train
+  Loss: 2.1812
+  Accuracy: 0.4043
+  Acc-Top5: 0.7626
+val
+  Loss: 2.1878
+  Accuracy: 0.4143
+  Acc-Top5: 0.7578
+
+Epoch 3/10
+----------
+train
+  Loss: 1.4462
+  Accuracy: 0.5885
+  Acc-Top5: 0.8813
+val
+  Loss: 1.7730
+  Accuracy: 0.5153
+  Acc-Top5: 0.8249
+
+Epoch 4/10
+----------
+train
+  Loss: 0.9868
+  Accuracy: 0.7047
+  Acc-Top5: 0.9424
+val
+  Loss: 2.1733
+  Accuracy: 0.4805
+  Acc-Top5: 0.7884
+
+Epoch 5/10
+----------
+train
+  Loss: 0.6773
+  Accuracy: 0.7930
+  Acc-Top5: 0.9742
+val
+  Loss: 1.7906
+  Accuracy: 0.5462
+  Acc-Top5: 0.8308
+
+Epoch 6/10
+----------
+train
+  Loss: 0.2395
+  Accuracy: 0.9435
+  Acc-Top5: 0.9975
+val
+  Loss: 1.2113
+  Accuracy: 0.6773
+  Acc-Top5: 0.9025
+
+Epoch 7/10
+----------
+train
+  Loss: 0.1256
+  Accuracy: 0.9803
+  Acc-Top5: 0.9997
+val
+  Loss: 1.1987
+  Accuracy: 0.6879
+  Acc-Top5: 0.9054
+
+Epoch 8/10
+----------
+train
+  Loss: 0.0838
+  Accuracy: 0.9934
+  Acc-Top5: 1.0000
+val
+  Loss: 1.1976
+  Accuracy: 0.6883
+  Acc-Top5: 0.9071
+
+Epoch 9/10
+----------
+train
+  Loss: 0.0614
+  Accuracy: 0.9979
+  Acc-Top5: 1.0000
+val
+  Loss: 1.1969
+  Accuracy: 0.6908
+  Acc-Top5: 0.9071
+
+Epoch 10/10
+----------
+train
+  Loss: 0.0441
+  Accuracy: 0.9995
+  Acc-Top5: 1.0000
+val
+  Loss: 1.2004
+  Accuracy: 0.6942
+  Acc-Top5: 0.9080
+
+Training finished in 11m 49s
